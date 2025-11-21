@@ -1,0 +1,2 @@
+Este é o conteúdo original do arquivo documento_teste_1.txt.
+Sequestro de dados simulado para fins educacionais.
